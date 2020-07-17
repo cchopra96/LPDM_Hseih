@@ -1,0 +1,19 @@
+name: a500new
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - scipy
+  - dask
+  - matplotlib
+  - pandas
+  - netCDF4
+  - zarr
+  - xarray
+  - jupytext
+  - git
+  - requests
+  - seaborn
+  - numba
+prefix: /Users/phil/a50037/envs/a500new
