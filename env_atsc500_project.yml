@@ -1,19 +1,11 @@
-name: a500new
+name: atsc_LPDM
 channels:
   - conda-forge
   - defaults
 dependencies:
   - jupyter
-  - scipy
-  - dask
   - matplotlib
-  - pandas
-  - netCDF4
-  - zarr
-  - xarray
   - jupytext
   - git
   - requests
-  - seaborn
-  - numba
-prefix: /Users/phil/a50037/envs/a500new
+prefix: /Users/Chitra/a50037/envs/LPDM
